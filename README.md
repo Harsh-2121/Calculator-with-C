@@ -1,2 +1,2 @@
 # Calculator-with-C
-A Calculator capable of performing all kinds of calculations
+A Calculator capable of performing all kinds of calculations.Built with C++.
